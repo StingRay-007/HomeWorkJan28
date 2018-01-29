@@ -1,7 +1,5 @@
 package HomeWorkJan28;
 
-
-
 public class HomeWorkJan28void {
 	
 	public void getbalance() {

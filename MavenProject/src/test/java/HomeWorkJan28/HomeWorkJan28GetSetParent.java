@@ -4,6 +4,7 @@ public class HomeWorkJan28GetSetParent {
 
 	private String C;
 	private int N;
+	
 	public String getC() {
 		return C;
 	}
